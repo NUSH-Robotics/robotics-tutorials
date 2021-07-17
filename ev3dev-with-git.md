@@ -1,3 +1,10 @@
+# ev3dev
+From the ev3dev website: ev3dev is a Debian Linux-based operating system that runs on several LEGO® MINDSTORMS compatible platforms including the LEGO® MINDSTORMS EV3 and Raspberry Pi-powered BrickPi.
+
+The main reason for using ev3dev is to allow us to run python on it. However as it is a linux kernel, it has far more uses that the basic OS EV3 provides.
+
+This tutorial helps set up ev3dev on an EV3, SSH and set up git on it. Git is a useful version control tool that in this case, allows us to upload code to the EV3. This allows us to code on and IDE or text editor on our local machine, then upload it to the EV3.
+
 This was done on my Ubuntu 20.04 machine
 
 ## Flashing the sd card
