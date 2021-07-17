@@ -12,7 +12,8 @@ I followed this [tutorial](https://www.ev3dev.org/docs/tutorials/connecting-to-t
 This is important for setting up git
 If you are on windows, use [putty](https://www.putty.org/) to ssh
 
-Next, follow these commands, if there is an error, you could reference this [page](https://www.ev3dev.org/docs/tutorials/setting-up-python-pycharm/) to try and debug
+## Git
+Follow these commands, if there is an error, you could reference this [page](https://www.ev3dev.org/docs/tutorials/setting-up-python-pycharm/) to try and debug
 
 ```bash
 ssh robot@ev3dev.local
