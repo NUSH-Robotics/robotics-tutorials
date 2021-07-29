@@ -42,13 +42,17 @@ Choose a directory and name for your project. Select the following compiler opti
 |:--:|:--:|
 |Project Options|Compiler Options|
 
-Click the following options, and create `helloworld.cpp` file within the directory. Click *ok* to the following dialog.
+Click the following options, and create `helloworld.cpp` file within the project.
 
-|![Create file](../src/win-codeblocks-6.png)|![Create file](../src/win-codeblocks-7.png)|
+|![Create file1](../src/win-codeblocks-6-2-2.png)|![Create file2](../src/win-codeblocks-6-3.png)|
 |:--:|:--:|
-|Creatings File|File Options|
+|Creating File|Pick C/C++ Source File|
+|:--:|:--:|
+|![Create file3](../src/win-codeblocks-6-4.png)|![Create file4](../src/win-codeblocks-6-5.png)|
+|:--:|:--:|
+|Pick C++ File|Name file as `helloworld.cpp`|
 
-#### Hello World!
+#### Hello World Program!
 
 Click *+* to expand `MyProject` and double click `helloworld.cpp` on the left to edit it. Add the following code:
 
