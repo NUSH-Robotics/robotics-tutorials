@@ -56,6 +56,8 @@ Click the following options, and create `helloworld.cpp` file within the project
 
 Click *+* to expand `MyProject` and double click `helloworld.cpp` on the left to edit it. Add the following code:
 
+![Open file](../src/win-codeblocks-8.png)
+
 ```
 #include <iostream>
 using namespace std;
@@ -68,7 +70,7 @@ int main() {
 
 Now you can *build & compile your code*! An `.exe` should run and you should see the following output:
 
-|![Compile](../src/win-codeblocks-8.png)|![exe](../src/win-codeblocks-9.png)|
+|![Compile](../src/win-codeblocks-9.png)|![exe](../src/win-codeblocks-10.png)|
 |:--:|:--:|
 |Compiling code|Exectuable|
 
