@@ -33,14 +33,14 @@ $ mkdir project
 $ cd project
 $ mkdir project.git
 $ git init --bare project.git
-$ nano project.git/hooks/post-receive
+$ vim project.git/hooks/post-receive
 
-#this will open the file, then add the following two lines
+#this will open the file, press i to go to insert mode and add the following two lines
 
 #!/bin/sh
 git --work-tree=/home/robot/project --git-dir=/home/robot/project/project.git checkout -f
 
-
+then press esc and type :x and enter to exit vim
 
 $ chmod +x project.git/hooks/post-receive
 $ git config --global user.email "you@example.com"
