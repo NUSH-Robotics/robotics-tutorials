@@ -40,7 +40,7 @@ $ vim project.git/hooks/post-receive
 #!/bin/sh
 git --work-tree=/home/robot/project --git-dir=/home/robot/project/project.git checkout -f
 
-then press esc and type :x and enter to exit vim
+#then press esc and type :x and enter to exit vim
 
 $ chmod +x project.git/hooks/post-receive
 $ git config --global user.email "you@example.com"
